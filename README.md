@@ -2,6 +2,8 @@
 
 [TOC]
 
+Notice: 该包基于[Liuyvjin的shixi_dual_ur](https://github.com/Liuyvjin/shixi_dual_ur)修改.
+
 ## 一、简介
 
 本系统使用ros控制双机械臂系统，实现了双机械臂的Gazebo仿真，以及连接并控制两台真实的UR10机器人。
